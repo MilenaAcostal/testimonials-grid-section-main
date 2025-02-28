@@ -101,6 +101,7 @@ body{
     margin-right: 1rem;
     margin-bottom: 1rem;
     overflow: hidden;
+    box-shadow: 10px 10px 10px hsla(0, 0%, 7%, 0.541);
 
     padding: 2.2rem 2rem;
 }

@@ -1,0 +1,19 @@
+@media screen and (max-width:375px) {
+    body{
+        padding: 4rem 0;
+    }
+    .container {
+        grid-template-columns: 20rem;
+        grid-template-rows: 10rem;
+        grid-template-areas:
+            "a"
+            "a"
+            "b"
+            "c"
+            "d"
+            "d"
+            "e"
+            "e"
+            "e";
+    }
+}
